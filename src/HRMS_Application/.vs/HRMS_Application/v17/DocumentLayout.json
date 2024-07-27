@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\backserver\\onlinelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:backserver\\onlinelogservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:database\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\database\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:database\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\database\\managergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:database\\managergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\views\\reverso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:views\\reverso\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\controllers\\reversocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:controllers\\reversocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:models\\usermodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:models\\groupmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\models\\reversomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:models\\reversomodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:database\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\database\\membergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:database\\membergroup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_MemberGroupUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_ManagerGroupUser.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_Users.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_Group.sql||{0058A1F7-65F3-4DB9-B3D0-CA7E64DD73CD}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|c:\\users\\17802\\wkspace\\hrms.alrayqiu.github.io\\src\\hrms_application\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{BB55D58B-8C5F-4966-A06A-377B83703DFC}|HRMS_Application.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\User.cs",
+              "RelativeDocumentMoniker": "DataBase\\User.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\User.cs",
+              "RelativeToolTip": "DataBase\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T23:22:00.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MemberGroup.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\MemberGroup.cs",
+              "RelativeDocumentMoniker": "DataBase\\MemberGroup.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\MemberGroup.cs",
+              "RelativeToolTip": "DataBase\\MemberGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:33:40.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ManagerGroup.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\ManagerGroup.cs",
+              "RelativeDocumentMoniker": "DataBase\\ManagerGroup.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\ManagerGroup.cs",
+              "RelativeToolTip": "DataBase\\ManagerGroup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:33:33.631Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAADIAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T22:31:31.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T22:31:28.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:09:10.39Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAADYAAABTAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:27:27.063Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "dbo.HRMS_ManagerGroupUser [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_ManagerGroupUser.sql",
+              "ToolTip": "dbo.HRMS_ManagerGroupUser [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-27T22:24:40.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "dbo.HRMS_MemberGroupUser [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_MemberGroupUser.sql",
+              "ToolTip": "dbo.HRMS_MemberGroupUser [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-27T22:24:36.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "dbo.HRMS_Group [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_Group.sql",
+              "ToolTip": "dbo.HRMS_Group [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-27T22:24:35.263Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "dbo.HRMS_Users [\u6570\u636E]",
+              "DocumentMoniker": "ViewDataWindow_MSSQL__/ALRAY_LAPTOP/app/True/SqlTable/dbo.HRMS_Users.sql",
+              "ToolTip": "dbo.HRMS_Users [\u6570\u636E]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000826|",
+              "WhenOpened": "2024-07-27T22:24:32.011Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OnlineLogService.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\BackServer\\OnlineLogService.cs",
+              "RelativeDocumentMoniker": "BackServer\\OnlineLogService.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\BackServer\\OnlineLogService.cs",
+              "RelativeToolTip": "BackServer\\OnlineLogService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:20:49.033Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReversoModel.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Models\\ReversoModel.cs",
+              "RelativeDocumentMoniker": "Models\\ReversoModel.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Models\\ReversoModel.cs",
+              "RelativeToolTip": "Models\\ReversoModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T22:03:40.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Views\\Reverso\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Reverso\\Index.cshtml",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Views\\Reverso\\Index.cshtml",
+              "RelativeToolTip": "Views\\Reverso\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-27T22:01:30.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "DataBase\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\AppDbContext.cs",
+              "RelativeToolTip": "DataBase\\AppDbContext.cs",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAFEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:58:22.735Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "GroupModel.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Models\\GroupModel.cs",
+              "RelativeDocumentMoniker": "Models\\GroupModel.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Models\\GroupModel.cs",
+              "RelativeToolTip": "Models\\GroupModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:53:52.876Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserModel.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Models\\UserModel.cs",
+              "RelativeDocumentMoniker": "Models\\UserModel.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Models\\UserModel.cs",
+              "RelativeToolTip": "Models\\UserModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:52:40.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ReversoController.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Controllers\\ReversoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReversoController.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\Controllers\\ReversoController.cs",
+              "RelativeToolTip": "Controllers\\ReversoController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAUwBsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T21:40:35.005Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\Group.cs",
+              "RelativeDocumentMoniker": "DataBase\\Group.cs",
+              "ToolTip": "C:\\Users\\17802\\wkspace\\HRMS.alrayqiu.github.io\\src\\HRMS_Application\\DataBase\\Group.cs",
+              "RelativeToolTip": "DataBase\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-27T20:57:08.977Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

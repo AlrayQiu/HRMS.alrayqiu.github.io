@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Alliance HRMS";
+}
+
+<!DOCTYPE html>
+<html>
+<head>
+    <title>@ViewData["Title"]</title>
+    <style>
+        /* Google-style CSS (placeholder) */
+        /* Add your own styling here */
+        body {
+            font-family: Arial, sans-serif;
+        }
+
+        .container {
+            max-width: 800px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+
+        .info {
+            margin-bottom: 20px;
+        }
+
+        .button {
+            background-color: #4285f4;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 5px;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>@ViewData["Title"]</h1>
+        <div class="info">
+            <strong>@ViewBag.LoggedInUsername:</strong> <!-- Display name here -->
+        </div>
+        <div class="info">
+            <strong>MAC地址:@ViewBag.LoggedInMac</strong> <!-- Display MAC address here -->
+        </div>
+        <div class="info">
+            <strong>在线时长:@ViewBag.LoggedInTime</strong> <!-- Display name here -->
+        </div>
+        <button onclick="window.location.href='/Reverso/Index'" class="button">总览</button>
+    </div>
+</body>
+</html>
